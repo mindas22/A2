@@ -21,4 +21,3 @@ myApp.controller('myFirstController', function($scope) {
 
 	};
 });
-

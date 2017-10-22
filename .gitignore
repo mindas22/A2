@@ -1,0 +1,3 @@
+platforms/*
+# OS X
+.DS_Store
